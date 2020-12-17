@@ -29,7 +29,7 @@
   <li>Misc
     <ul>
       <li><a href="https://github.com/DEKRA-CTF/CTFs/blob/main/2020/misc/:-).md">:-)</a></li>
-      <li><a herf="https://github.com/DEKRA-CTF/CTFs/blob/main/2020/misc/Emojicode.md">Emojicode</a></li>
+      <li><a href="https://github.com/DEKRA-CTF/CTFs/blob/main/2020/misc/Emojicode.md">Emojicode</a></li>
       <li>GBUniverse</li>
     </ul>
   </li>
