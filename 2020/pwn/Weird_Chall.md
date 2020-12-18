@@ -64,6 +64,6 @@ while end_flag != lastchar:
 log.success("Flag: %s"%flag)
 ```
 
-**Participant write-ups:**
-
-<a href="https://www.youtube.com/watch?v=9vRvnPX3rVo">Video write-up by Razvi</a>
+**Participant write-ups:**  
+<a href="https://www.youtube.com/watch?v=9vRvnPX3rVo">Video write-up by Razvi</a>  
+<a href="https://scavengersecurity.com/dekractf-weird-chall-pwn/">Write-up by Scavenger Security</a>
